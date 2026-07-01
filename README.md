@@ -43,6 +43,8 @@ Data pipeline project using Python, APIs, web scraping, MySQL, and Google Cloud.
 ## Certification
 
 * **Data Analytics — WBS Coding School**
+  [View Certificate](certificates/wbs_data_analytics_certificate.pdf)
+
 
 ## Professional Background
 
